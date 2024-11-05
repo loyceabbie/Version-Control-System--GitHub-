@@ -15,7 +15,7 @@ public class PrinterApp {
         System.out.println("The value of number2 is " + NUMBER2);
         System.out.println(); 
 
-        // Perform and print calculations ()
+        // Perform and print calculations 
         System.out.println(NUMBER1 + " * " + NUMBER2 + " = " + (NUMBER1 * NUMBER2));
         System.out.println(NUMBER1 + " + " + NUMBER2 + " = " + (NUMBER1 + NUMBER2));
         System.out.println(NUMBER1 + " / " + NUMBER2 + " = " + ((double) NUMBER1 / NUMBER2));
