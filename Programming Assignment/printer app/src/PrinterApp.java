@@ -1,12 +1,9 @@
 public class PrinterApp {
     public static void main(String[] args) {
-        String creator = "Your Name";
-        int number1 = 5;
-        int number2 = 2;
-        int multiplication;
-        int addition;
-        double division;
-        int subtraction;
+         // Constants and variables declarations grouped together
+         final String CREATOR = "Your Name";  
+         final int NUMBER1 = 5;               
+         final int NUMBER2 = 2;               
 
         System.out.println("Printer App");
         System.out.print("This app is made by: ");
