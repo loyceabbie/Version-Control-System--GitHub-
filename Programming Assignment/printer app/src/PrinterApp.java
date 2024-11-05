@@ -10,10 +10,10 @@ public class PrinterApp {
         System.out.println("This app is made by: " + CREATOR);  
         System.out.println();  
 
-        // System.out.println(number1);  // Commented out as requested
-
-        System.out.println("The value of number1 is " + number1);
-        System.out.println("The value of number2 is " + number2);
+        /// Print input values
+        System.out.println("The value of number1 is " + NUMBER1);
+        System.out.println("The value of number2 is " + NUMBER2);
+        System.out.println(); 
 
         // multiply the numbers
         
