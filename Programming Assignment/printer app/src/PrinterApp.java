@@ -5,9 +5,10 @@ public class PrinterApp {
          final int NUMBER1 = 5;               
          final int NUMBER2 = 2;               
 
+        // Print app header
         System.out.println("Printer App");
-        System.out.print("This app is made by: ");
-        System.out.println(creator);
+        System.out.println("This app is made by: " + CREATOR);  
+        System.out.println();  
 
         // System.out.println(number1);  // Commented out as requested
 
